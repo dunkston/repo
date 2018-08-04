@@ -1,0 +1,20 @@
+<package>
+	<id>com.dunkston.cctimex</id>
+	<name>CCTimeX</name>
+	<version>1.1</version>
+	<compatibility>
+		<firmware>
+			<miniOS>11.0</miniOS>
+			<otherVersions>unsupported</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>Shows the time in the control center on iPhone X</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links></links>
+</package>
