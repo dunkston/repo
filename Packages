@@ -1,7 +1,7 @@
 Package: com.dunkston.cctimex
 Name: CCTimeX
 Depends: mobilesubstrate
-Version: 1.1
+Version: 1.2
 Architecture: iphoneos-arm
 Description: Shows the time in the control center on iPhone X
 Maintainer: dunkston
@@ -10,4 +10,4 @@ Section: Tweaks
 Filename: ./debs/com.dunkston.cctimex.deb
 Depiction: https://dunkston.github.io/repo/depictions/com.dunkston.cctimex
 Size: 4086
-MD5sum: 5d9ff2bdfba9907123c0a17d2d7db8b0
+MD5sum: 96bf646555887a3deaa9763f353b63f8
